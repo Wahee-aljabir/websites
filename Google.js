@@ -1,0 +1,1 @@
+let query = document.querySelector()
