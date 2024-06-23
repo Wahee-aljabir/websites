@@ -1,0 +1,15 @@
+.newtext {
+    border: 1px solid black;
+    width: 100px;
+    height: 20px;
+    font-size: 12pt;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    position: absolute;
+    
+}
+
+.nofocus {
+    border: 0px;
+}
+
+
